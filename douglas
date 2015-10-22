@@ -35,15 +35,6 @@ Calm Nature
 - Stealth Rock  
 - Lava Plume  
 
-Gliscor @ Toxic Orb  
-Ability: Poison Heal  
-EVs: 244 HP / 192 SpD / 72 Spe  
-Careful Nature  
-- Swords Dance  
-- Roost  
-- Earthquake  
-- Knock Off  
-
 Douglas (Ursaring) @ Toxic Orb  
 Ability: Guts  
 EVs: 248 HP / 252 Atk / 8 SpD  
@@ -52,4 +43,13 @@ Adamant Nature
 - Gunk Shot  
 - Close Combat  
 - Protect  
+
+Ampharos @ Ampharosite  
+Ability: Static  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Calm Nature  
+- Discharge  
+- Dragon Pulse  
+- Cotton Guard  
+- Focus Blast  
 
